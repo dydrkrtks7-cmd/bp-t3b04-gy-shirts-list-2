@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yeouido-club-note.maphoshirts.space/sitemap.xml
+Sitemap: https://yeouido-club-note.maphoshirts.space/sitemap-pages.xml
